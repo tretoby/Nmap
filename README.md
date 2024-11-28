@@ -1,4 +1,5 @@
 **TheHive**
+
 Objective
 
 Build a case management system in Hive to track, store, and analyze customer support cases. The system will:
