@@ -1,12 +1,14 @@
-**TheHive**
+**NMAP**
 
 Objective
 
-Build a case management system in Hive to track, store, and analyze customer support cases. The system will:
+To use Nmap to scan a local network or a specific target to:
 
-Store case data.
-Allow querying for analysis (e.g., most common issue types, resolution times, etc.).
-Use HiveQL for data insights.
+Discover active hosts and their open ports.
+Identify the services running on these ports.
+Perform a basic vulnerability analysis.
+
+
 
 
 Skills Learned 
