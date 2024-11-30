@@ -51,10 +51,15 @@ found 1 vulnerability (CVE-2011-1002)
 
 ![image](https://github.com/user-attachments/assets/150fadfa-de86-4191-8923-40fdecba8341)
 
+![image](https://github.com/user-attachments/assets/9166ceea-0c1d-41df-b90f-213319a743f2)
+
 
 **Scan Report**
 
-![image](https://github.com/user-attachments/assets/13ea753d-31d3-4a37-9756-f64cb2f1c2f3)
+![image](https://github.com/user-attachments/assets/831679a0-c2b5-4f27-ad48-84441b7a0969)
+
+
+
 
 
 
