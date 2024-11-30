@@ -38,3 +38,23 @@ Ethical Scanning: Practicing legal and responsible network scanning.
 Attention to Detail: Reviewing results for hidden vulnerabilities.
 
 steps:
+open command line and perform a ping scan to discover active host on the network ( nmap -sn 192.168.1.0/24)
+![image](https://github.com/user-attachments/assets/f5ec890f-2f1d-4edc-97ac-81a19dabf991)
+
+now I will scan all open ports on my ocal network (nmap -p 1-1000 192.168.1.10) did not work so I used (nmap -Pn 192.168.0.10)
+
+3 open ports were found 53, 80, 443
+![image](https://github.com/user-attachments/assets/21fd403d-87e2-484e-b85e-cc2009a0e7ac)
+
+perform a service scan using ( sudo nmap -sS -A -Pn 1-1000 --reason 192.168.1.10)
+
+![image](https://github.com/user-attachments/assets/e74e02db-14ce-4085-b0e1-833e7fab5113)
+
+perform a vulnerability scan  using (nmap --script vuln -Pn 192.168.1.10)
+not showing any vulnerabilities 
+![image](https://github.com/user-attachments/assets/5b35d5e8-cc9d-490c-b51a-e2252a522a5c)
+
+**Scan Report**
+![image](https://github.com/user-attachments/assets/6c437211-650a-474e-af5c-70059462bdd7)
+
+
