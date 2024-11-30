@@ -47,12 +47,14 @@ perform a service scan using ( sudo nmap -sS -A -Pn 1-1000 --reason 192.168.1.10
 
 perform a vulnerability scan  using (nmap --script vuln -Pn 192.168.1.10)
 
-not showing any vulnerabilities 
+found 1 vulnerability (CVE-2011-1002)
 
-![image](https://github.com/user-attachments/assets/5b35d5e8-cc9d-490c-b51a-e2252a522a5c)
+![image](https://github.com/user-attachments/assets/150fadfa-de86-4191-8923-40fdecba8341)
+
 
 **Scan Report**
 
-![image](https://github.com/user-attachments/assets/6c437211-650a-474e-af5c-70059462bdd7)
+![image](https://github.com/user-attachments/assets/13ea753d-31d3-4a37-9756-f64cb2f1c2f3)
+
 
 
